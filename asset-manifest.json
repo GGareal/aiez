@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aiez/static/css/main.b5a3980e.chunk.css",
+    "main.js": "/aiez/static/js/main.2a3b2e5c.chunk.js",
+    "main.js.map": "/aiez/static/js/main.2a3b2e5c.chunk.js.map",
+    "runtime-main.js": "/aiez/static/js/runtime-main.f6c3d7f6.js",
+    "runtime-main.js.map": "/aiez/static/js/runtime-main.f6c3d7f6.js.map",
+    "static/js/2.c6c08fea.chunk.js": "/aiez/static/js/2.c6c08fea.chunk.js",
+    "static/js/2.c6c08fea.chunk.js.map": "/aiez/static/js/2.c6c08fea.chunk.js.map",
+    "index.html": "/aiez/index.html",
+    "precache-manifest.e49a8a27236c60c34c85adc6e97ab32c.js": "/aiez/precache-manifest.e49a8a27236c60c34c85adc6e97ab32c.js",
+    "service-worker.js": "/aiez/service-worker.js",
+    "static/css/main.b5a3980e.chunk.css.map": "/aiez/static/css/main.b5a3980e.chunk.css.map",
+    "static/js/2.c6c08fea.chunk.js.LICENSE.txt": "/aiez/static/js/2.c6c08fea.chunk.js.LICENSE.txt",
+    "static/media/computingCloud.png": "/aiez/static/media/computingCloud.72f6cfe0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6c3d7f6.js",
+    "static/js/2.c6c08fea.chunk.js",
+    "static/css/main.b5a3980e.chunk.css",
+    "static/js/main.2a3b2e5c.chunk.js"
+  ]
+}
